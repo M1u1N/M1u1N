@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on personal projects
 * 🌱 I’m learning **React**, **TypeScript**, and **C#**
-* 💬 Ask me about **Python**, **JavaScript**
+* 💬 Ask me about **Python**, **JavaScript**, **C** (only Standard Things)
 
 ---
 
@@ -32,7 +32,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1u1N\&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=M1u1N\&show_icons=true)
-
----
-
-*Thanks for visiting my profile!*
