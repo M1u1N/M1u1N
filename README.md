@@ -1,15 +1,6 @@
 # Hi there 👋 I'm M1u1N
 
 <img src="https://count.getloli.com/@M1u1N-visitor?theme=rule34&padding=7&align=center&pixelated=1&darkmode=auto" alt="visitor counter" loading="lazy" />
-
----
-
-## About me
-
-* 🔭 I’m currently working on personal projects
-* 🌱 I’m learning **React**, **TypeScript**, and **C#**
-* 💬 Ask me about **Python**, **JavaScript**, **C** (only Standard Things)
-
 ---
 
 ## Tech & Tools
